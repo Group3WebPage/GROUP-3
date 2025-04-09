@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
   <title>Group 3 | Welcome to our Group homepage!</title>
   <style>
