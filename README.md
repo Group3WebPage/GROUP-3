@@ -1,9 +1,39 @@
-
-
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
   <title>Group 3 | Welcome to our Group homepage!</title>
+  <style>
+    body {
+      background-color: #000000;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #00BFFF;
+    }
+    h2 {
+      color: #FF4500;
+    }
+    h3 {
+      color: #FFD700;
+    }
+    address, strong {
+      color: #FF69B4;
+    }
+    blockquote {
+      font-style: italic;
+      color: #ADFF2F;
+    }
+    hr {
+      border: 1px solid #444;
+    }
+    h6 {
+      font-size: 0.8em;
+      color: gray;
+    }
+  </style>
 </head>
 
 <body>
